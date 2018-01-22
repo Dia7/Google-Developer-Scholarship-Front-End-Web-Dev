@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+
+* I have learned new skills like: How to use a figure element, how to insert an image, how to create hyperlinks, some new tags - <s>, <sup>, <hr>.., how to use and make the difference between local paths (relative paths) and external paths.
+
+* It has been easy to set the HTML document with the basic tags in it
+
+* Nothing has been too difficult so far
+
+* I have used the strategies about the embeded content - the semantic view of the code.

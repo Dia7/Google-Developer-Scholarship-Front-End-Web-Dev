@@ -5,6 +5,3 @@ Use the array's forEach() method to loop over the following array and add 100 to
 Remember that the "Test Run" button will display any logged content, so feel free to use console.log() to test your code.
 
 <h4>Your Code:</h4>
-💥 Quiz Update!
-
-Based on student feedback, we've completely updated this quiz (on June 29th). If you've already completed this quiz, your previous solution will now be incorrect. Please feel free to take the quiz again if you'd like. 😀
